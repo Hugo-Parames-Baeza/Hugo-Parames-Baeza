@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hola, soy Hugo Parames Baeza
 
-<!--
-**Hugo-Parames-Baeza/Hugo-Parames-Baeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **programador full stack web** y estudiante en [Cesur](https://www.cesurformacion.com/), apasionado por el desarrollo tecnológico y la innovación. Me encanta construir soluciones digitales que mezclan creatividad y funcionalidad, tanto en la web como en aplicaciones móviles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- 👨‍💻 **Stack principal:** Laravel, PHP nativo, JavaScript, Java, TypeScript, React, HTML, CSS, Tailwind, Git, SQL
+- 🎓 **Estudiante de desarrollo** en Cesur
+- 🌐 **Apasionado de la web**, pero explorando el mundo móvil con mi próximo proyecto estrella
+- ✈️ **Intereses:** Programación, viajar y aprender continuamente sobre nuevas tecnologías y creación de proyectos
+
+---
+
+## 🏆 Proyectos destacados
+
+- **Sakura Fest:** Una web en React para un festival de cerveza japonesa
+- **Consultor de bebidas:** Integra inteligencia artificial para recomendar y consultar bebidas
+- **Administrador de presupuesto:** Automatiza la creación de PDFs para gestión financiera
+
+Descubre más en mis repositorios principales:
+- [CamiVerso](https://github.com/Hugo-Parames-Baeza/CamiVerso)
+- [Proyecto-Vitalmas](https://github.com/albertocll/Proyecto-Vitalmas)
+- [bibliotecaHPB](https://github.com/Hugo-Parames-Baeza/bibliotecaHPB)
+
+---
+
+## 🌍 Objetivo actual
+
+Estoy desarrollando una **app móvil** que será mi mejor proyecto personal, pensada para impactar y venderse en todo el mundo.
+
+---
+
+## 📫 Contacto y redes
+
+- [LinkedIn](https://www.linkedin.com/in/hugo-parames/)
+
+---
+
+### 💡 ¿Te interesa colaborar, aprender juntos o compartir ideas?  
+¡No dudes en contactarme! Siempre estoy abierto a nuevas oportunidades y desafíos.

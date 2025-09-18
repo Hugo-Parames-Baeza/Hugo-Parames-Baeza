@@ -20,9 +20,9 @@ Soy **programador full stack web** y estudiante en [Cesur](https://www.cesurform
 - **Administrador de presupuesto:** Automatiza la creación de PDFs para gestión financiera
 
 Descubre más en mis repositorios principales:
-- [CamiVerso](https://github.com/Hugo-Parames-Baeza/CamiVerso)
-- [Proyecto-Vitalmas](https://github.com/albertocll/Proyecto-Vitalmas)
-- [bibliotecaHPB](https://github.com/Hugo-Parames-Baeza/bibliotecaHPB)
+- [SAKURA FEST](https://github.com/Hugo-Parames-Baeza/SAKURA-FEST)
+- [Tienda Bebidas con IA](https://github.com/Hugo-Parames-Baeza/tienda-bebidas)
+- [Planificador de Gastos]([https://github.com/Hugo-Parames-Baeza/bibliotecaHPB](https://github.com/Hugo-Parames-Baeza/Planificador-de-Gastos))
 
 ---
 

@@ -22,7 +22,7 @@ Soy **programador full stack web** y estudiante en [Cesur](https://www.cesurform
 Descubre más en mis repositorios principales:
 - [SAKURA FEST](https://github.com/Hugo-Parames-Baeza/SAKURA-FEST)
 - [Tienda Bebidas con IA](https://github.com/Hugo-Parames-Baeza/tienda-bebidas)
-- [Planificador de Gastos]([https://github.com/Hugo-Parames-Baeza/bibliotecaHPB](https://github.com/Hugo-Parames-Baeza/Planificador-de-Gastos))
+- [Planificador de Gastos](https://github.com/Hugo-Parames-Baeza/Planificador-de-Gastos)
 
 ---
 

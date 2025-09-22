@@ -9,7 +9,7 @@ Soy **programador front end**, pero tambien amante del back end y estudiante en 
 - **Stack principal:** Laravel, PHP nativo, JavaScript, Java, TypeScript, React, HTML, CSS, Tailwind, Git, SQL, Dart, Flutter, React Native
 - **Estudiante de desarrollo de aplicaciones multiplataforma** en Cesur
 - **Apasionado de la web**, pero explorando el mundo móvil con mi próximo proyecto estrella
-- ✈**Intereses:** Programación, viajar y aprender continuamente sobre nuevas tecnologías y creación de proyectos
+- **Intereses:** Programación, viajar y aprender continuamente sobre nuevas tecnologías y creación de proyectos
 
 ---
 

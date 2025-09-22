@@ -26,17 +26,17 @@ Descubre más en mis repositorios principales:
 
 ---
 
-## 🌍 Objetivo actual
+## Objetivo actual
 
 Estoy desarrollando una **app móvil** que será mi mejor proyecto personal, pensada para impactar y venderse en todo el mundo.
 
 ---
 
-## 📫 Contacto y redes
+## Contacto y redes
 
 - [LinkedIn](https://www.linkedin.com/in/hugo-parames/)
 
 ---
 
-### 💡 ¿Te interesa colaborar, aprender juntos o compartir ideas?  
+### ¿Te interesa colaborar, aprender juntos o compartir ideas?  
 ¡No dudes en contactarme! Siempre estoy abierto a nuevas oportunidades y desafíos.

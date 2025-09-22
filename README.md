@@ -1,3 +1,4 @@
+![Imagen de Laptop en una orilla](./imagen.jpg)
 # Hola, soy Hugo Parames Baeza
 
 Soy **programador front end**, pero tambien amante del back end y estudiante en [Cesur](https://www.cesurformacion.com/), apasionado por el desarrollo tecnológico y la innovación. Me encanta construir soluciones digitales que mezclan creatividad y funcionalidad, tanto en la web como en aplicaciones móviles.
